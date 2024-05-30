@@ -1,0 +1,7 @@
+
+
+java:S5361?"HReplace this call to "replaceAll()" by a call to the "replace()" method.(×ß‘ıÿÿÿÿ8¤ÎÄû1J$99dc9357-1830-4d7b-a98b-3f9837026db9
+‹
+java:S5361B"HReplace this call to "replaceAll()" by a call to the "replace()" method.(š½Ì8¥ÎÄû1J$022cb299-01e8-4cca-aba9-7cb563c3aac2
+
+java:S5998W"LRefactor this repetition that can lead to a stack overflow for large inputs.(Ê±ßÌ8ªÎÄû1J$babf503a-548e-4f2d-9694-b48df351a618
